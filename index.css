@@ -87,14 +87,14 @@ span{
 	overflow: hidden;
 }
 #facebook:active{
-	color: red;
+	color: black;
 }
 
 #facebook:visited{
-	color: blue;
+	color: black;
 }
 
 #facebook:link{
-	color: gray;
+	color: black;
 }
 
